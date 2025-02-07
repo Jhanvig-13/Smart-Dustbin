@@ -26,7 +26,7 @@ An automated **Smart Dustbin** that opens its lid when detecting an object withi
 
 ### **Step 2: Upload the Code**  
 - Open **Arduino IDE**.
--  Copy & paste `aurdino_code.txt` into the editor.  
+-  Copy & paste `arduino_code.txt` into the editor.  
 - Select the **correct board & COM port** in *Tools* menu.  
 - Click **Upload** to flash the code to Arduino.  
 
